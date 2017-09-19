@@ -1,0 +1,2 @@
+
+SELECT * FROM imgupload ORDER BY RAND() LIMIT 5
